@@ -1,0 +1,9 @@
+1 --- one
+hi --- hi
+hello --- hello my friend !!!
+2 --- two
+three --- 3
+3 --- three
+two --- 2
+one --- 1
+hey --- welcome my friend !!!
